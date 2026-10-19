@@ -1,0 +1,22 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Donnees locales LangGraph
+.langgraph_api/
+*.pckl
+*.pckl.tmp
+
+# Windows / IDE
+Thumbs.db
+.vscode/
+.idea/
