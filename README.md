@@ -46,7 +46,7 @@ diagnostic-medical-langgraph/
 Prérequis : [Python 3.11+](https://www.python.org/downloads/) et [Git](https://git-scm.com).
 
 ```bash
-git clone https://github.com/VOTRE-NOM/diagnostic-medical-langgraph.git
+git clone https://github.com/sara-nm22/diagnostic_medical_langgraph.git
 cd diagnostic-medical-langgraph
 
 # Backend
